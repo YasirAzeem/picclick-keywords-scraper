@@ -1,0 +1,5 @@
+.scrapy/
+nohup.out
+picclick.zip
+proxies.txt
+settings.py
